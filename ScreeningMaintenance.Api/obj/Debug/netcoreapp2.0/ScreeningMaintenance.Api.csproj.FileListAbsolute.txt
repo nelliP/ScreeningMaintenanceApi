@@ -1,0 +1,28 @@
+C:\Users\nelli\Documents\Visual Studio 2017\Projects\ScreeningMaintenance\ScreeningMaintenance.Api\bin\Debug\netcoreapp2.0\ScreeningMaintenance.Api.deps.json
+C:\Users\nelli\Documents\Visual Studio 2017\Projects\ScreeningMaintenance\ScreeningMaintenance.Api\bin\Debug\netcoreapp2.0\ScreeningMaintenance.Api.runtimeconfig.json
+C:\Users\nelli\Documents\Visual Studio 2017\Projects\ScreeningMaintenance\ScreeningMaintenance.Api\bin\Debug\netcoreapp2.0\ScreeningMaintenance.Api.runtimeconfig.dev.json
+C:\Users\nelli\Documents\Visual Studio 2017\Projects\ScreeningMaintenance\ScreeningMaintenance.Api\bin\Debug\netcoreapp2.0\ScreeningMaintenance.Api.dll
+C:\Users\nelli\Documents\Visual Studio 2017\Projects\ScreeningMaintenance\ScreeningMaintenance.Api\bin\Debug\netcoreapp2.0\ScreeningMaintenance.Api.pdb
+C:\Users\nelli\Documents\Visual Studio 2017\Projects\ScreeningMaintenance\ScreeningMaintenance.Api\bin\Debug\netcoreapp2.0\ScreeningMaintenance.DataAccess.dll
+C:\Users\nelli\Documents\Visual Studio 2017\Projects\ScreeningMaintenance\ScreeningMaintenance.Api\bin\Debug\netcoreapp2.0\ScreeningMaintenance.DataAccess.pdb
+C:\Users\nelli\Documents\Visual Studio 2017\Projects\ScreeningMaintenance\ScreeningMaintenance.Api\obj\Debug\netcoreapp2.0\ScreeningMaintenance.Api.csprojAssemblyReference.cache
+C:\Users\nelli\Documents\Visual Studio 2017\Projects\ScreeningMaintenance\ScreeningMaintenance.Api\obj\Debug\netcoreapp2.0\ScreeningMaintenance.Api.csproj.CoreCompileInputs.cache
+C:\Users\nelli\Documents\Visual Studio 2017\Projects\ScreeningMaintenance\ScreeningMaintenance.Api\obj\Debug\netcoreapp2.0\ScreeningMaintenance.Api.AssemblyInfoInputs.cache
+C:\Users\nelli\Documents\Visual Studio 2017\Projects\ScreeningMaintenance\ScreeningMaintenance.Api\obj\Debug\netcoreapp2.0\ScreeningMaintenance.Api.AssemblyInfo.cs
+C:\Users\nelli\Documents\Visual Studio 2017\Projects\ScreeningMaintenance\ScreeningMaintenance.Api\obj\Debug\netcoreapp2.0\ScreeningMaintenance.Api.csproj.CopyComplete
+C:\Users\nelli\Documents\Visual Studio 2017\Projects\ScreeningMaintenance\ScreeningMaintenance.Api\obj\Debug\netcoreapp2.0\ScreeningMaintenance.Api.dll
+C:\Users\nelli\Documents\Visual Studio 2017\Projects\ScreeningMaintenance\ScreeningMaintenance.Api\obj\Debug\netcoreapp2.0\ScreeningMaintenance.Api.pdb
+C:\Users\nelli\Desktop\EX_A\ScreeningMaintenance\ScreeningMaintenance.Api\bin\Debug\netcoreapp2.0\ScreeningMaintenance.Api.deps.json
+C:\Users\nelli\Desktop\EX_A\ScreeningMaintenance\ScreeningMaintenance.Api\bin\Debug\netcoreapp2.0\ScreeningMaintenance.Api.runtimeconfig.json
+C:\Users\nelli\Desktop\EX_A\ScreeningMaintenance\ScreeningMaintenance.Api\bin\Debug\netcoreapp2.0\ScreeningMaintenance.Api.runtimeconfig.dev.json
+C:\Users\nelli\Desktop\EX_A\ScreeningMaintenance\ScreeningMaintenance.Api\bin\Debug\netcoreapp2.0\ScreeningMaintenance.Api.dll
+C:\Users\nelli\Desktop\EX_A\ScreeningMaintenance\ScreeningMaintenance.Api\bin\Debug\netcoreapp2.0\ScreeningMaintenance.Api.pdb
+C:\Users\nelli\Desktop\EX_A\ScreeningMaintenance\ScreeningMaintenance.Api\bin\Debug\netcoreapp2.0\ScreeningMaintenance.DataAccess.dll
+C:\Users\nelli\Desktop\EX_A\ScreeningMaintenance\ScreeningMaintenance.Api\bin\Debug\netcoreapp2.0\ScreeningMaintenance.DataAccess.pdb
+C:\Users\nelli\Desktop\EX_A\ScreeningMaintenance\ScreeningMaintenance.Api\obj\Debug\netcoreapp2.0\ScreeningMaintenance.Api.csprojAssemblyReference.cache
+C:\Users\nelli\Desktop\EX_A\ScreeningMaintenance\ScreeningMaintenance.Api\obj\Debug\netcoreapp2.0\ScreeningMaintenance.Api.csproj.CoreCompileInputs.cache
+C:\Users\nelli\Desktop\EX_A\ScreeningMaintenance\ScreeningMaintenance.Api\obj\Debug\netcoreapp2.0\ScreeningMaintenance.Api.AssemblyInfoInputs.cache
+C:\Users\nelli\Desktop\EX_A\ScreeningMaintenance\ScreeningMaintenance.Api\obj\Debug\netcoreapp2.0\ScreeningMaintenance.Api.AssemblyInfo.cs
+C:\Users\nelli\Desktop\EX_A\ScreeningMaintenance\ScreeningMaintenance.Api\obj\Debug\netcoreapp2.0\ScreeningMaintenance.Api.csproj.CopyComplete
+C:\Users\nelli\Desktop\EX_A\ScreeningMaintenance\ScreeningMaintenance.Api\obj\Debug\netcoreapp2.0\ScreeningMaintenance.Api.dll
+C:\Users\nelli\Desktop\EX_A\ScreeningMaintenance\ScreeningMaintenance.Api\obj\Debug\netcoreapp2.0\ScreeningMaintenance.Api.pdb

@@ -1,0 +1,22 @@
+C:\Users\nelli\Documents\Visual Studio 2017\Projects\ScreeningMaintenance\ScreeningMaintenanceDataAccess\bin\Debug\netcoreapp2.0\ScreeningMaintenance.DataAccess.deps.json
+C:\Users\nelli\Documents\Visual Studio 2017\Projects\ScreeningMaintenance\ScreeningMaintenanceDataAccess\bin\Debug\netcoreapp2.0\ScreeningMaintenance.DataAccess.runtimeconfig.json
+C:\Users\nelli\Documents\Visual Studio 2017\Projects\ScreeningMaintenance\ScreeningMaintenanceDataAccess\bin\Debug\netcoreapp2.0\ScreeningMaintenance.DataAccess.runtimeconfig.dev.json
+C:\Users\nelli\Documents\Visual Studio 2017\Projects\ScreeningMaintenance\ScreeningMaintenanceDataAccess\bin\Debug\netcoreapp2.0\ScreeningMaintenance.DataAccess.dll
+C:\Users\nelli\Documents\Visual Studio 2017\Projects\ScreeningMaintenance\ScreeningMaintenanceDataAccess\bin\Debug\netcoreapp2.0\ScreeningMaintenance.DataAccess.pdb
+C:\Users\nelli\Documents\Visual Studio 2017\Projects\ScreeningMaintenance\ScreeningMaintenanceDataAccess\obj\Debug\netcoreapp2.0\ScreeningMaintenance.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\nelli\Documents\Visual Studio 2017\Projects\ScreeningMaintenance\ScreeningMaintenanceDataAccess\obj\Debug\netcoreapp2.0\ScreeningMaintenance.DataAccess.AssemblyInfoInputs.cache
+C:\Users\nelli\Documents\Visual Studio 2017\Projects\ScreeningMaintenance\ScreeningMaintenanceDataAccess\obj\Debug\netcoreapp2.0\ScreeningMaintenance.DataAccess.AssemblyInfo.cs
+C:\Users\nelli\Documents\Visual Studio 2017\Projects\ScreeningMaintenance\ScreeningMaintenanceDataAccess\obj\Debug\netcoreapp2.0\ScreeningMaintenance.DataAccess.dll
+C:\Users\nelli\Documents\Visual Studio 2017\Projects\ScreeningMaintenance\ScreeningMaintenanceDataAccess\obj\Debug\netcoreapp2.0\ScreeningMaintenance.DataAccess.pdb
+C:\Users\nelli\Documents\Visual Studio 2017\Projects\ScreeningMaintenance\ScreeningMaintenanceDataAccess\obj\Debug\netcoreapp2.0\ScreeningMaintenance.DataAccess.csprojAssemblyReference.cache
+C:\Users\nelli\Desktop\EX_A\ScreeningMaintenance\ScreeningMaintenanceDataAccess\bin\Debug\netcoreapp2.0\ScreeningMaintenance.DataAccess.deps.json
+C:\Users\nelli\Desktop\EX_A\ScreeningMaintenance\ScreeningMaintenanceDataAccess\bin\Debug\netcoreapp2.0\ScreeningMaintenance.DataAccess.runtimeconfig.json
+C:\Users\nelli\Desktop\EX_A\ScreeningMaintenance\ScreeningMaintenanceDataAccess\bin\Debug\netcoreapp2.0\ScreeningMaintenance.DataAccess.runtimeconfig.dev.json
+C:\Users\nelli\Desktop\EX_A\ScreeningMaintenance\ScreeningMaintenanceDataAccess\bin\Debug\netcoreapp2.0\ScreeningMaintenance.DataAccess.dll
+C:\Users\nelli\Desktop\EX_A\ScreeningMaintenance\ScreeningMaintenanceDataAccess\bin\Debug\netcoreapp2.0\ScreeningMaintenance.DataAccess.pdb
+C:\Users\nelli\Desktop\EX_A\ScreeningMaintenance\ScreeningMaintenanceDataAccess\obj\Debug\netcoreapp2.0\ScreeningMaintenance.DataAccess.csprojAssemblyReference.cache
+C:\Users\nelli\Desktop\EX_A\ScreeningMaintenance\ScreeningMaintenanceDataAccess\obj\Debug\netcoreapp2.0\ScreeningMaintenance.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\nelli\Desktop\EX_A\ScreeningMaintenance\ScreeningMaintenanceDataAccess\obj\Debug\netcoreapp2.0\ScreeningMaintenance.DataAccess.AssemblyInfoInputs.cache
+C:\Users\nelli\Desktop\EX_A\ScreeningMaintenance\ScreeningMaintenanceDataAccess\obj\Debug\netcoreapp2.0\ScreeningMaintenance.DataAccess.AssemblyInfo.cs
+C:\Users\nelli\Desktop\EX_A\ScreeningMaintenance\ScreeningMaintenanceDataAccess\obj\Debug\netcoreapp2.0\ScreeningMaintenance.DataAccess.dll
+C:\Users\nelli\Desktop\EX_A\ScreeningMaintenance\ScreeningMaintenanceDataAccess\obj\Debug\netcoreapp2.0\ScreeningMaintenance.DataAccess.pdb

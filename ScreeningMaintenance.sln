@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScreeningMaintenance.DataAccess", "ScreeningMaintenanceDataAccess\ScreeningMaintenance.DataAccess.csproj", "{593A9449-1200-468F-AC37-7C8EB230F730}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScreeningMaintenance.Api", "ScreeningMaintenance.Api\ScreeningMaintenance.Api.csproj", "{EF118672-42ED-4C38-A4B1-7ED19220C8B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{593A9449-1200-468F-AC37-7C8EB230F730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{593A9449-1200-468F-AC37-7C8EB230F730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{593A9449-1200-468F-AC37-7C8EB230F730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{593A9449-1200-468F-AC37-7C8EB230F730}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF118672-42ED-4C38-A4B1-7ED19220C8B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF118672-42ED-4C38-A4B1-7ED19220C8B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF118672-42ED-4C38-A4B1-7ED19220C8B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF118672-42ED-4C38-A4B1-7ED19220C8B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80353438-99B9-4DEF-966B-C73EE90342BA}
+	EndGlobalSection
+EndGlobal
